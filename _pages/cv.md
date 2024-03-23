@@ -11,9 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Linguistics, Universität des Saarlandes
+* Max Planck Institute for Evolutionary Anthropology
+* Department of Linguistics and Cultural Evolution
+* Leipzig, Germany
+* 2022 - 2025
+*
+*
+* MPhil English (Language), Department of English,
+* University of Cape Coast
+* Cape Coast, Ghana
+* 2016-2020
+* 
+* Bachelor of Education, Arts (English, Twi & History), Department of English
+* University of Cape Coast
+* Cape Coast, Ghana
+* 2011 - 2015
+* 
 
 Work experience
 ======
