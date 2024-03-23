@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+
 * Ph.D Linguistics, Universität des Saarlandes
 * Max Planck Institute for Evolutionary Anthropology
 * Department of Linguistics and Cultural Evolution
