@@ -11,41 +11,54 @@ redirect_from:
 
 Education
 ======
-Ph.D Linguistics, Universität des Saarlandes
-Max Planck Institute for Evolutionary Anthropology
-Department of Linguistics and Cultural Evolution
-Leipzig, Germany
-2022 - 2025
+* Ph.D Linguistics, Universität des Saarlandes
+* Max Planck Institute for Evolutionary Anthropology
+* Department of Linguistics and Cultural Evolution
+* Leipzig, Germany (2022 - 2025)
 
 
-MPhil English (Language), Department of English,
-University of Cape Coast
-Cape Coast, Ghana
-2016-2020
+* MPhil English (Language), Department of English,
+* University of Cape Coast
+* Cape Coast, Ghana (2016-2020)
  
-Bachelor of Education, Arts (English, Twi & History), Department of English
-University of Cape Coast
-Cape Coast, Ghana
-2011 - 2015
+* Bachelor of Education, Arts (English, Twi & History), Department of English
+* University of Cape Coast
+* Cape Coast, Ghana (2011 - 2015)
 
  
 
-Work experience
+Teaching
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+   
+* Lecturer - 2021 to present (study leave) 
+  * University of Energy and Natural Resources
+  * Department of Languages and General Studies
+  * Courses: Communication Skills, Critical Thinking
+  * 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant - 2017 to 2021
+  * University of Cape Coast
+  * Department of English
+  * Courses: Grammar, Semantics, English Proficiency (Listening, Reading)
+ 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Assistant - 2017-2018
+  * Uniersity of Cape Coast
+  * Department of Communication Studies
+  * Course: Error and Contrastive Analysis, The Use of English, Discourse Analysis
+  * Supervisor: Joseph Arko, Richmond S. Ngula
+ 
+* Teacher (Principal Superintendant): 2015-2016
+  * Ghana Education Service
+  * Mando Senior High Technical School
+  * Mando, Central Region
+  * Course: Literature-in-English
+
+* Teaching Assistant: 2015-2016
+  * Uniersity of Cape Coast
+  * Department of English
+  * Course: Error and Contrastive Analysis, The Use of English, Grammar
+  * Supervisor: Joseph Arko, Richmond S. Ngula
   
 Skills
 ======
@@ -58,22 +71,46 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+Appiah Tieku, E. (2020). Towards a probabilistic grammar of collective noun agreement. MPhil thesis, University of Cape Coast
   
-Talks
+Conferences, Workshops & Seminars
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
+* Drivers of diversity in resources for construing quantity in the world’s languages
+  * 26th International Conference on Historical Linguistics (ICHL), Hiedleberg University (06, 2023)
+
+* On the Evolution of Number Marking and Numeral Classifiers
+  * Divide and Count workshop, Deutsche Gesellschaft für Sprachwissenschaft - DGfS, University of Cologne (01, 2023)
+		
+* Drivers of diversity in resources for construing quantity
+  * Invited Talk, Seminar, Department of Language Science and Technology, University of Saarland (01, 2023)
+
+* Factors influencing diversity in the development of numerals
+  * 12th Linguistics Association of Ghana Conference, Kwame Nkrumah University of Science and Technology (09, 2022)
+
+* On the grammar of side effects of medicine: Assessment of the communication of side effects in health care
+  * Hedra’s 1st Language and the Pandemic Conference
+
+
   
-Teaching
+Summer Schools & Courses
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 12th Historical Sociolinguistics Network Conference, Amrum, Germany - 2023
+    
+* Statistical Rethinking - 
+
   
-Service and leadership
+Mentorship
 ======
-* Currently signed in to 43 different slack teams
+ARTEMIS Mentorship Program, Max Planck Society (2022-2023)
+
+
+Journal Review Services
+======
+Linguistic Typology
+
+Programming Language
+======
+R
+Python
