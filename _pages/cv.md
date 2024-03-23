@@ -103,5 +103,5 @@ Linguistic Typology
 
 Programming Language
 ======
-R
-Python
+* R
+* Python
