@@ -16,7 +16,6 @@ Education
  	* Department of Linguistics and Cultural Evolution
 	* Leipzig, Germany (2022 - 2025)
 
-
 * MPhil English (Language), Department of English
 	* University of Cape Coast
  	* Cape Coast, Ghana (2016-2020)
@@ -43,7 +42,7 @@ Teaching
  
 
 * Graduate Assistant - 2017-2018
-  * Uniersity of Cape Coast
+  * University of Cape Coast
   * Department of Communication Studies
   * Course: Error and Contrastive Analysis, The Use of English, Discourse Analysis
   * Supervisor: Joseph Arko, Richmond S. Ngula
@@ -55,19 +54,11 @@ Teaching
   * Course: Literature-in-English
 
 * Teaching Assistant: 2015-2016
-  * Uniersity of Cape Coast
+  * University of Cape Coast
   * Department of English
   * Course: Error and Contrastive Analysis, The Use of English, Grammar
   * Supervisor: Joseph Arko, Richmond S. Ngula
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
