@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "You are welcome to Enock Tieku's website"
+title: "Welcome to Enock Tieku's website"
 author_profile: true
 redirect_from: 
   - /about/
