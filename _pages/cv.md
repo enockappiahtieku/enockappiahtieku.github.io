@@ -13,8 +13,8 @@ Education
 ======
 * Ph.D Linguistics, Universität des Saarlandes
 	* Max Planck Institute for Evolutionary Anthropology
- 	* Department of Linguistics and Cultural Evolution
-	* Leipzig, Germany (2022 - 2025)
+	* Department of Linguistics and Cultural Evolution
+	* Leipzig, Germany (2022 - 2025 expected)
 
 * MPhil English (Language), Department of English
 	* University of Cape Coast
@@ -64,7 +64,8 @@ Publications
 ======
 
 Appiah Tieku, E. (2020). Towards a probabilistic grammar of collective noun agreement. MPhil thesis, University of Cape Coast
-  
+
+
 Conferences, Workshops & Seminars
 ======
 
@@ -88,8 +89,6 @@ Conferences, Workshops & Seminars
 Summer Schools & Courses
 ======
 * 12th Historical Sociolinguistics Network Conference, Amrum, Germany - 2023
-    
-* Statistical Rethinking - 
 
   
 Mentorship
